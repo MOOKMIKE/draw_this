@@ -1,0 +1,6 @@
+Pictionary type game created by Michael Anderson using node.js
+
+At it's current state only the basic foundation of pictionary works. A person connects to the server and is given a canvas element to draw on.
+Each following connect goes to a viewing page. Whatever the drawer draws is sent to the canvas on the view pages.
+
+There are 6 files, all must be in the same directory. Run node canvas-server in your console and go to your browser.
